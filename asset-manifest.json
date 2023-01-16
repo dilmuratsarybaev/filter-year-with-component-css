@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/filter-year-with-component-css/static/css/main.c8da1735.css",
+    "main.js": "/filter-year-with-component-css/static/js/main.1d0e8c59.js",
+    "index.html": "/filter-year-with-component-css/index.html",
+    "main.c8da1735.css.map": "/filter-year-with-component-css/static/css/main.c8da1735.css.map",
+    "main.1d0e8c59.js.map": "/filter-year-with-component-css/static/js/main.1d0e8c59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8da1735.css",
+    "static/js/main.1d0e8c59.js"
+  ]
+}
