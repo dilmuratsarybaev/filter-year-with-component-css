@@ -1,6 +1,6 @@
 {
-  "homepage": "https://dilmuratsarybaev.github.io/Project",
-  "name": "my-app",
+  "homepage": "https://dilmuratsarybaev.github.io/filter-year-with-component-css",
+  "name": "filter-year-main",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
